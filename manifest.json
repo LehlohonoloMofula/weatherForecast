@@ -1,0 +1,19 @@
+{
+    "name": "Weather Forecast",
+    "short_name" : "Forecast",
+    "start_url" : "",
+    "backgroud_color" : "",
+    "theme_color" : "",
+    "orientation" : "any",
+    "display" : "standalone",
+    "icons" : [{
+    "src" : "./assets/images/icons",
+    "type" : "image/jpeg",
+    "sizes" : "195X195"
+    }],
+    "lang" : "en-UK",
+    "serviceworker" : {
+        "src" : "",
+        "scope" : "/"
+    }
+}
